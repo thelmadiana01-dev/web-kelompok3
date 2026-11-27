@@ -15,7 +15,7 @@ require_once __DIR__ . '/data.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($page_title); ?> - Kevin Wijaya</title>
+    <title><?php echo htmlspecialchars($page_title); ?> - Falih Temongmere</title>
     <link rel="stylesheet" href="<?php echo $base_path; ?>assets/css/style.css">
 </head>
 <body>
@@ -27,9 +27,9 @@ require_once __DIR__ . '/data.php';
     <aside class="sidebar" id="sidebar">
         <div class="sidebar-top">
             <a href="<?php echo $base_path; ?>index.php" class="brand-box">
-                <div class="brand-m">K</div>
+                <div class="brand-m">F</div>
                 <div class="brand-info">
-                    <span class="brand-name">KEVIN WIJAYA</span>
+                    <span class="brand-name">Falih</span>
                     <span class="brand-role">Web Developer &amp; Mahasiswa</span>
                 </div>
             </a>
@@ -104,14 +104,14 @@ require_once __DIR__ . '/data.php';
         <div class="sidebar-promo hide-on-collapse">
             <h4>Tugas Website<br>Profil PHP Modular</h4>
             <p>Multi-halaman terpisah (.php) dengan galeri interaktif &amp; 25 berita.</p>
-            <a href="<?php echo $base_path; ?>profil/detail.php?anggota=anak_3" class="btn-promo">Profil Saya &rarr;</a>
+            <a href="<?php echo $base_path; ?>profil/detail.php?anggota=anak_1" class="btn-promo">Profil Saya &rarr;</a>
         </div>
 
         <!-- Biodata Quick Info Box -->
         <div class="sidebar-cv hide-on-collapse">
             <span class="cv-label">MAHASISWA INFORMATIKA</span>
-            <a href="<?php echo $base_path; ?>profil/detail.php?anggota=anak_3" class="cv-file">
-                &#128196; Biodata_Kevin_Wijaya.php
+            <a href="<?php echo $base_path; ?>profil/detail.php?anggota=anak_1" class="cv-file">
+                &#128196; Biodata_Falih.php
             </a>
         </div>
 

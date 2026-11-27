@@ -7,7 +7,7 @@ include 'includes/header.php';
 <section class="hero-section">
     <div>
         <div class="hero-kicker">HALO, SAYA</div>
-        <h1 class="hero-title">Kevin <span class="grad-text">Wijaya</span></h1>
+        <h1 class="hero-title">Falih <span class="grad-text">Temongmere</span></h1>
         <div class="hero-subtitle">Website Profil Keluarga &amp; <span class="grad-text">Portal PHP</span></div>
         <p class="hero-desc">
             Selamat datang di website profil pribadi dan keluarga berbasis arsitektur modular PHP multi-halaman. Jelajahi biodata keluarga, video perkenalan, galeri foto, serta 25 artikel berita pilihan.
