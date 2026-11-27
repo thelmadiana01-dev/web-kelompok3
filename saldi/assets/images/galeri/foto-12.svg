@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f766e"/><stop offset="100%" stop-color="#0369a1"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="660" cy="110" r="70" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="140" cy="390" r="110" fill="rgba(255,255,255,0.08)"/>
+  <rect x="48" y="320" width="704" height="130" rx="16" fill="rgba(15,23,42,0.72)"/>
+  <text x="80" y="365" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#93c5fd">GALERI KELUARGA #12 (LANDSCAPE)</text>
+  <text x="80" y="405" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Olahraga Pagi Bersama Saudara</text>
+  <text x="80" y="433" font-family="Arial,sans-serif" font-size="14" fill="#cbd5e1">Ganti dengan foto asli keluarga (non-selfie) di assets/images/galeri/</text>
+</svg>
